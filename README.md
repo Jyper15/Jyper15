@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Jyper15
-- 👀 I’m interested in ... anything 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello welcome to my github. 
 
 <!---
 Jyper15/Jyper15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
